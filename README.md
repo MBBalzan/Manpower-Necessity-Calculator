@@ -17,3 +17,8 @@ The salary of each position was given by Management.
 
 ## Building the model
 In order to facilitate changing the core data, the model was built first creating the main values
+
+[<img src="INPUT_1.png">]
+[<img src="INPUT_2.png">]
+[<img src="INPUT_3.png">]
+[<img src="RESULTS.png">]
