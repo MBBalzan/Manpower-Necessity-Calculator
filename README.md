@@ -18,8 +18,42 @@ The salary of each position was given by Management.
 ## Building the model
 In order to facilitate changing the core data, the model was built first creating the main values
 
+| First Header  | Second Header |
+| :-: | :-: |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ![INPUTS](https://github.com/user-attachments/assets/823e9105-a97a-4a6e-b8b2-bce4339f828d)
 
 ## Results
 ![RESULTS](https://github.com/user-attachments/assets/897c53bb-aefe-4e78-a041-3bf7ff7dfe72)
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+<table>
+<tr>
+<th>Heading 1</th>
+<th>Heading 2</th>
+</tr>
+<tr>
+
+<td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td><td>
+
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></tr> </table>
+
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 <br/> 4 <br/> 5 |
