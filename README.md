@@ -2,7 +2,7 @@
 This is an Excel project done during the beginning of the pandemic to prove the need to hire more manpower on a key area of a company. The data used on this project was altered to protect any company information.
 
 ## Context
-During the pandemic, production fell short of the monthly goal 3 months in a row, so Management asked for a study on the case. Me and my team gathered info about absenteeism on the area, average hourly production per employee and the manpower costs, and I built this "calculator" with variable input values so it could be used for any variation on the future.
+During the pandemic, production fell short of the monthly goal 3 months in a row, so Management asked for a study on the case. Me and my team gathered info about absenteeism on the area for the base positions (named only "Employee" on this project), average hourly production per employee and the manpower costs, and I built this "calculator" with variable input values so it could be used for any variation on the future.
 
 ## Gathering data
 
@@ -18,7 +18,8 @@ The salary of each position was given by Management.
 ## Building the model
 In order to facilitate changing the core data, the model was built first creating the main values
 
-[<img src="INPUT_1.png">]
-[<img src="INPUT_2.png">]
-[<img src="INPUT_3.png">]
-[<img src="RESULTS.png">]
+![INPUTS](https://github.com/user-attachments/assets/823e9105-a97a-4a6e-b8b2-bce4339f828d)
+
+## Results
+![RESULTS](https://github.com/user-attachments/assets/897c53bb-aefe-4e78-a041-3bf7ff7dfe72)
+
