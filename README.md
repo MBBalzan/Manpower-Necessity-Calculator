@@ -13,7 +13,7 @@ The absenteeism data was gathered by the area leadership, responsible for keepin
 The UPH was automatic calculated on the company's ERP.
 
 ### Manpower costs
-The salary of each position was given by Management.
+The salary of each position was informed by the Production Manager.
 
 ## Building the model
 In order to facilitate changing the core data, the model was built first creating the main values
@@ -28,10 +28,18 @@ In order to facilitate changing the core data, the model was built first creatin
 ## Results
 ![RESULTS](https://github.com/user-attachments/assets/897c53bb-aefe-4e78-a041-3bf7ff7dfe72)
 
-| First Header  | Second Header |
+| Daily production goal  | UPH |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 180  | 200  |
+
+| Achieved production | 1º & 2º shift | 3º shift |
+| ------------- | ------------- | ------------- |
+| Hours worked: | 8,69 | 5,45 |
+
+|  |  |
+| ------------- | ------------- |
+|  |  |
+|  |  |
 
 <table>
 <tr>
